@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "mcVersion": "1.21.11",
+  "loader": "fabric",
+  "mods": [
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "filename": "fabric-api-0.141.1+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar",
+      "required": true,
+      "category": "library"
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "filename": "sodium-fabric-0.8.4+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4%2Bmc1.21.11.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "filename": "lithium-fabric-0.21.3+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "ferrite-core",
+      "name": "FerriteCore",
+      "filename": "ferritecore-8.0.3-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "krypton",
+      "name": "Krypton",
+      "filename": "krypton-0.2.10.jar",
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/XCnavm6o/ImmediatelyFast-Fabric-1.14.1%2B1.21.11.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "entityculling",
+      "name": "EntityCulling",
+      "filename": "entityculling-fabric-1.11.0-mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/mb5FjYpq/entityculling-fabric-1.11.0-mc1.21.11.jar",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "id": "dynamic-fps",
+      "name": "Dynamic FPS",
+      "filename": "dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/WfSXh637/dynamic-fps-3.11.4%2Bminecraft-1.21.11-fabric.jar",
+      "required": true,
+      "category": "performance"
+    }
+  ]
+}
