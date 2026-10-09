@@ -10,6 +10,16 @@
     { "id": "krypton",         "name": "Krypton",         "projectId": "fQEb0iXm", "required": true, "category": "performance" },
     { "id": "immediatelyfast", "name": "ImmediatelyFast", "projectId": "5ZwdcRci", "required": true, "category": "performance" },
     { "id": "entityculling",   "name": "EntityCulling",   "projectId": "NNAgCjsB", "required": true, "category": "performance" },
-    { "id": "dynamic-fps",     "name": "Dynamic FPS",     "projectId": "LQ3K71Q1", "required": true, "category": "performance" }
+    { "id": "dynamic-fps",     "name": "Dynamic FPS",     "projectId": "LQ3K71Q1", "required": true, "category": "performance" },
+    { "id": "modmenu",         "name": "Mod Menu",        "projectId": "mOgUt4GM", "required": true, "category": "utility" },
+
+    {
+      "id": "mef-client",
+      "name": "Mef Client",
+      "url": "https://github.com/Akyma787ror/skachat/releases/download/mods-v1/mef-client.jar",
+      "filename": "mef-client.jar",
+      "required": true,
+      "category": "core"
+    }
   ]
 }
